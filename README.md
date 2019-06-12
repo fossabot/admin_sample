@@ -1,5 +1,5 @@
 Gemを利用した管理者画面作成
-以下追加したgem
-gem 'activeadmin'
-gem 'devise'
-gem 'rails-i18n'
+<p>以下追加したgem
+gem 'activeadmin'<br>
+gem 'devise'<br>
+gem 'rails-i18n'</p>
